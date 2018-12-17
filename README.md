@@ -24,11 +24,12 @@ Currently:
   - Vulnerability Management  
 
 Formerly:
-  - Penetration Testing
-  - Java Code Review
+  - Network Penetration Testing
+  - Web Application Penetration Testing
   - dotNet Code Review
-  - Systems Administration
+  - Java Code Review
   - Network Administration
+  - Systems Administration
 
 Future:
   - Grad Student - Artificial Intelligence
